@@ -3,6 +3,8 @@ A basic example to specifically predict sarcastic news headlines with traditiona
 
 This repo accompanies the blog post from my blog post [here](https://liwehappy.github.io/metastability/jupyter/text%20analytics/machine%20learning/ensembling/2021/11/25/Sarcasm-Detection.html)
 
+Datasets can be downloaded through this [link](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/activity)
+
 ## Features
 * Text Analysis including word counts, most frequent words, wordcloud
 * Build text preprocessing pipeline with bag of n-grams representation, nltk's casual_tokenizer, classifiers.
