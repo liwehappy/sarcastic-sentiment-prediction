@@ -9,6 +9,7 @@ Datasets can be downloaded through this [link](https://www.kaggle.com/rmisra/new
 * Text Analysis including word counts, most frequent words, wordcloud
 * Build text preprocessing pipeline with bag of n-grams representation, nltk's casual_tokenizer, classifiers.
 * Ensemble text preprocessing piepeline and multiple classifiers.
+* Deploy model with Flask and Heroku
 
 ## How to use it and basic deployment
 
